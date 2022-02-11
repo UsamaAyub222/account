@@ -4,8 +4,6 @@ include("login_check.php");
 include('menue.php');
 ?>
 
-
-
 <div class="justify-content-end" style="padding: 10px;">
 	<a href="<?php echo $config['base_url']; ?>/ledger_add.php" class="btn btn-primary iframe" role="button" title="Add Ledger" style="float: right;"><i class="fas fa-plus"></i></a>	
 </div>
@@ -41,6 +39,8 @@ include('menue.php');
 
 		</table>
 
+
+		
 	</div>	
 	<div class="col-sm-1"></div>
 </div>
