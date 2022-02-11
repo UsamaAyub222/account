@@ -39,7 +39,9 @@ include("login_check.php");
 			<li class="nav-item">
 				<a class="nav-link" href="ledgers.php">Day-Book</a>
 			</li>
-			
+			<li class="nav-item">
+				<a class="nav-link" href="h_report.php">Head-Report</a>
+			</li>
 		</ul>
 		<ul class="navbar-nav ml-auto">
             <li class="nav-item"><a class="nav-link" href="logout.php"> Logout <i class="fas fa-sign-out-alt"></i></a></li>
